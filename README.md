@@ -1,6 +1,6 @@
 # SQLi.to — The AI SQL Query Optimizer
 
-**SQLi.to** is a web-based **SQL query optimizer** for analyzing and improving SQL queries.
+[SQLi.to](https://sqli.to) is a web-based **SQL query optimizer** for analyzing and improving SQL queries.
 
 Supported engines:
 - MySQL query optimization
