@@ -8,6 +8,8 @@ Supported engines:
 - SQL Server query optimization
 - SQLite query optimization
 
+![SQLi.to query analysis](assets/screenshot.jpeg)
+
 ## How it works
 1. **Paste Your Query**  
    Enter your SQL query and select the database type.
