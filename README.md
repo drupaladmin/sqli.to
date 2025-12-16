@@ -21,27 +21,13 @@ Supported engines:
    Provide `EXPLAIN` output or schema information for deeper and more accurate analysis.
 
 ## Features
-### Intuitive interface 
-  Paste a query and analyze it instantly. No setup required.
-
-### Query rewrite suggestions 
-  Helps restructure inefficient queries and explains potential improvements.
-
-### Index suggestions 
-  Detects missing or ineffective indexes based on query structure.
-
-### Two analysis modes
-  - Standard mode: fast, single-pass analysis  
-  - Agentic mode: deeper, multi-step reasoning for complex queries
-
-### EXPLAIN & schema analysis 
-  Interprets execution plans and analyzes table structure and indexes.
-
-### Query history
-  Keeps previously analyzed queries for easy reference.
-
-### Share recommendations
-  Share optimization results with your team.
+- Intuitive interface: Paste a query and analyze it instantly. No setup required.
+- Query rewrite suggestions: Helps restructure inefficient queries and explains potential improvements.
+- Index suggestions: Detects missing or ineffective indexes based on query structure.
+- Deep analysis mode for deeper, multi-step reasoning for complex queries
+- EXPLAIN & schema analysis: Interprets execution plans and analyzes table structure and indexes.
+- Query history: Keeps previously analyzed queries for easy reference.
+- Share recommendations: Share optimization results with your team.
 
 ## Use Cases
 - Review slow or complex SQL queries  
